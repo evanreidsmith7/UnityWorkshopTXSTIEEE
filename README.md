@@ -33,16 +33,22 @@
 
 ### *optional* follow along during workshop
 
-1. download [The prototype 1 starter files](<Prototype 1 - Starter Files.zip>) and extract the zip anywhere
-2. Open Unity Hub and Create a new 3D core project (do not press the blue create project yet) and name it prototype 1
-3. before pressing the blue button create a folder for your unity work
-![f]()
+1. create a folder for your unity work.
+![f](images\folderpic.png)
+
+2. download [The prototype 1 starter files](<Prototype 1 - Starter Files.zip>) and extract the zip in the folder you just created.
+
+3. Open Unity Hub and Create a new 3D core project (do not press the blue create project yet) and name it prototype 1
 ![a](/images/b.png)
+
 4. now create the project by pressing the blue button
+
 5. in the unity editor, in the top right corner, click on assets>import package>custom package
 ![1](/images/a.png)
+
 6. open the prototype 1 starter files folder where you extracted and open the .unitypackage file and import all
 ![1](/images/c.png)
+
 7. in the unity editor project section, locate the assets folder and go to Assets>Scenes and double-click on the prototype 1 scene
 ![1](/images/d.png)
 
