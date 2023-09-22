@@ -34,7 +34,7 @@
 ### *optional* follow along during workshop
 
 1. create a folder for your unity work.
-![f](images\folderpic.png)
+![f](/images/folderpic.png)
 
 2. download [The prototype 1 starter files](<Prototype 1 - Starter Files.zip>) and extract the zip in the folder you just created.
 
